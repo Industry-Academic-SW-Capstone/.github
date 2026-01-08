@@ -13,17 +13,16 @@
 <br>
 
 | **메인화면** | **자산 및 포트폴리오** | **주식 상세** |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8e4a5877-fee6-46c4-97e3-47735b6ea1f8" width="280" /> | <img src="https://github.com/user-attachments/assets/47f8be05-20f0-409b-ae29-43f66aa9635a" width="280" /> | <img src="https://github.com/user-attachments/assets/bd258b5e-0671-4998-ac99-cc36177dcbcd" width="280" /> |
+| --- | --- | --- |
+| <img src="https://github.com/user-attachments/assets/8e4a5877-fee6-46c4-97e3-47735b6ea1f8" width="280"/> | <img src="https://github.com/user-attachments/assets/47f8be05-20f0-409b-ae29-43f66aa9635a" width="280"/> | <img src="https://github.com/user-attachments/assets/bd258b5e-0671-4998-ac99-cc36177dcbcd" width="280"/> |
 
 | **주식 매매** | **투자 분석** | **인사이트** |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/b5a01ced-7a24-4aae-b031-438d14c72373" width="280" /> | <img src="https://github.com/user-attachments/assets/272a2f82-3b73-4c65-8c5e-190e25a74fde" width="280" /> | <img src="https://github.com/user-attachments/assets/f0c4ac05-d727-4ecd-b1ba-0935750ee8b5" width="280" /> |
-
+| --- | --- | --- |
+| <img src="https://github.com/user-attachments/assets/b5a01ced-7a24-4aae-b031-438d14c72373" width="280"/> | <img src="https://github.com/user-attachments/assets/272a2f82-3b73-4c65-8c5e-190e25a74fde" width="280"/> | <img src="https://github.com/user-attachments/assets/f0c4ac05-d727-4ecd-b1ba-0935750ee8b5" width="280"/> |
 
 | **대회 만들기** | **랭킹** | **미션/업적** |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/d945dc82-5dc7-443d-8e4e-949c421e8545" width="280" /> | <img src="https://github.com/user-attachments/assets/7c541836-6908-46cf-97d7-aa162ee0d756" width="280" /> | <img src="https://github.com/user-attachments/assets/0bc272ad-24c7-4d14-a857-04dd5b711823" width="280" /> |
+| --- | --- | --- |
+| <img src="https://github.com/user-attachments/assets/d945dc82-5dc7-443d-8e4e-949c421e8545" width="280"/> | <img src="https://github.com/user-attachments/assets/7c541836-6908-46cf-97d7-aa162ee0d756" width="280"/> | <img src="https://github.com/user-attachments/assets/0bc272ad-24c7-4d14-a857-04dd5b711823" width="280"/> |
 
 <br><br>
 
