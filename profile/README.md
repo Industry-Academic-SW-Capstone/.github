@@ -115,24 +115,28 @@
         <th colspan="2">Spring</th>
     </tr>
     <tr>
-        <td><img src="이미지_경로_1.jpg" width="280" /></td>
-        <td><img src="이미지_경로_1.jpg" width="280" /></td>
+        <td><img width="2812" height="1226" alt="image" src="https://github.com/user-attachments/assets/9ae01668-bb71-46a0-90c4-a9bbdfa78ff6" /></td>
+        <td><img width="2806" height="616" alt="image" src="https://github.com/user-attachments/assets/12c8e5f4-30f2-445c-ac63-c54fc4e0bd72" />
+</td>
     </tr>
     <tr>
     <tr>
         <th colspan="2">PostgreSQL</th>
     </tr>
     <tr>
-        <td><img src="이미지_경로_1.jpg" width="280" /></td>
-        <td><img src="이미지_경로_1.jpg" width="280" /></td>
+        <td><img width="1406" height="731" alt="image" src="https://github.com/user-attachments/assets/8cd90cba-689a-439d-b05f-ed91c51563e2" />
+</td>
+        <td><img width="1409" height="647" alt="image" src="https://github.com/user-attachments/assets/22dfaa7c-d009-4469-a33d-9992f4f70ac6" />
+</td>
     </tr>
     <tr>
         <th colspan="2">Node Exporter</th>
     </tr>
     <tr>
-        <td><img src="이미지_경로_1.jpg" width="280" /></td>
-        <td><img src="이미지_경로_1.jpg" width="280" /></td>
+        <td><img width="1400" height="688" alt="image" src="https://github.com/user-attachments/assets/97c27f5d-7d44-4185-b672-5a30ed265718" />
+</td>
+        <td><img width="1234" height="615" alt="image" src="https://github.com/user-attachments/assets/663fece0-ba52-49ae-81e5-356c4365d48d" />
+</td>
     </tr>
 </table>
 <br><br>
-
