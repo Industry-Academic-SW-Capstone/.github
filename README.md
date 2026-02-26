@@ -124,8 +124,10 @@
         <th colspan="2">PostgreSQL</th>
     </tr>
     <tr>
-        <td><img src="이미지_경로_1.jpg" width="280" /></td>
-        <td><img src="이미지_경로_1.jpg" width="280" /></td>
+        <td><img width="1406" height="731" alt="image" src="https://github.com/user-attachments/assets/8cd90cba-689a-439d-b05f-ed91c51563e2" />
+</td>
+        <td><img width="1409" height="647" alt="image" src="https://github.com/user-attachments/assets/22dfaa7c-d009-4469-a33d-9992f4f70ac6" />
+</td>
     </tr>
     <tr>
         <th colspan="2">Node Exporter</th>
